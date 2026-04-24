@@ -2,7 +2,7 @@
 SMODS.Back {
     key = 'holy',
     pos = { x = 0, y = 0 },
-    config = { sephirot_rate = 2, consumables = { 'c_hatchl_malkuth' }  },
+    config = { sephirot_rate = 2, consumables = { 'c_hatchl_kether' }  },
     unlocked = true,
     atlas = 'HLDecks',
 
