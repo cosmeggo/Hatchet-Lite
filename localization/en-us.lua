@@ -279,7 +279,7 @@ return {
                 },
             },
             j_hatchl_prion = {
-                name = "Cap and Bells",
+                name = "Prion",
                 text = {
                     "Discards have a {C:green}#1# in #2#{} chance",
                     "to {C:red}destroy{} the card"
