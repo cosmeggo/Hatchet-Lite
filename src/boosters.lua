@@ -37,7 +37,7 @@ SMODS.Booster {
     end,
     create_card = function(self, card, i)
         return {
-            set = "sephirot",
+            set = "hatchl_sephirot",
             area = G.pack_cards,
             skip_materialize = true,
             soulable = true,
@@ -84,7 +84,7 @@ SMODS.Booster {
     end,
     create_card = function(self, card, i)
         return {
-            set = "sephirot",
+            set = "hatchl_sephirot",
             area = G.pack_cards,
             skip_materialize = true,
             soulable = true,
@@ -131,7 +131,7 @@ SMODS.Booster {
     end,
     create_card = function(self, card, i)
         return {
-            set = "sephirot",
+            set = "hatchl_sephirot",
             area = G.pack_cards,
             skip_materialize = true,
             soulable = true,
@@ -177,7 +177,7 @@ SMODS.Booster {
     end,
     create_card = function(self, card, i)
         return {
-            set = "sephirot",
+            set = "hatchl_sephirot",
             area = G.pack_cards,
             skip_materialize = true,
             soulable = true,

@@ -93,7 +93,7 @@ SMODS.Joker {
     end,
 
     calculate = function(self, card, context)
-        if context.joker_main and G.GAME.current_round.hands_left == 0 then
+        if context.before and G.GAME.current_round.hands_left == 0 then
             SMODS.destroy_cards(card, nil, nil, true)
             return {
                 level_up = card.ability.extra.levels,
