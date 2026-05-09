@@ -7,11 +7,11 @@
   "description": "A balanced, stripped-down version of Hatchet",
   "prefix": "hatchl",
   "main_file": "main.lua",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "priority": 0,
   "badge_colour": "202836",
   "badge_text_colour": "90f252",
   "dependencies": [
-    "Steamodded (>=1.0.0~BETA-1606b)"
+    "Steamodded (>=1.0.0~BETA-1620a)"
   ]
 }
